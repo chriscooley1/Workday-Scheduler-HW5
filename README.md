@@ -34,4 +34,4 @@ WHEN I refresh the page
 THEN the saved events persist
 ```
 
-![](images/Work-Day-Scheduler)
+![](images/Work-Day-Scheduler.png)
